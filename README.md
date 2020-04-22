@@ -10,6 +10,16 @@ This repo is a template for all EDGI templates. Replace this paragraph with a de
 * Developer setup (if relevant)
 * Slack channel (if relevant)
 
+| Repo | Description | Tools Used |
+| ---- | ----------- | ---------- |
+| [Environmental-Enforcement-Watch](https://github.com/edgi-govdata-archiving/Environmental-Enforcement-Watch) | **(This Repo!)** Project-wide documentation and issue tracking. | Markdown |
+| [EEW_Planning](https://github.com/edgi-govdata-archiving/EEW_Planning)| Project board and issue tracking for the coordination and planning of EEW events. | Markdown |
+| [ECHO-Hazardous-Waste](https://github.com/edgi-govdata-archiving/ECHO-Hazardous-Waste) | Jupyter notebooks for ECHO RCRA analysis to use with the EEW events.| Python, , Jupyter Notebook |
+| [ECHO-CWA-Compliance](https://github.com/edgi-govdata-archiving/ECHO-CWA-Compliance) | Use EPA's ECHO datasets to view compliance violations by quarter for state/congressional districts. | Python, Jupyter Notebook |
+| [ECHO-Air-Violations](https://github.com/edgi-govdata-archiving/ECHO-Air-Violations) | Jupyter notebook for examining ICIS-AIR_VIOLATION_HISTORY.| Python, Jupyter Notebook |
+
+For more on how all these parts fit together, see [ARCHITECTURE.md](https://github.com/edgi-govdata-archiving/Environmental-Enforcement-Watch/blob/master/ARCHITECTURE.md).
+
 **Suggestions for additional components of Readmes:**
 * A "How to use" section if the repo's project is a tool or website
 * A link to the [good-first-issue](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue+user%3Aedgi-govdata-archiving) label (this link across EDGI, or a specific link for the repo)
