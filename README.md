@@ -19,6 +19,24 @@ This repo is the organizational hub of the Github resources associated with EEW.
 
 For more on how all these parts fit together, see [ARCHITECTURE.md](https://github.com/edgi-govdata-archiving/Environmental-Enforcement-Watch/blob/master/ARCHITECTURE.md).
 
+## EEW Notebooks
+| Notebook | Description |
+| ---- | ------------- | 
+| [RCRA enforcements](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-enforcements.ipynb) | - |  
+| [RCRA inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-inspections.ipynb) | - |  
+| [RCRA violations](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-violation.ipynb) | - |  
+| [CWA violations](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-compliance-violations.ipynb) | - |  
+| [CWA inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-compliances-inspections.ipynb) | - |  
+| [CWA enforcement](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-enforcements.ipynb) | - |  
+| [CAA enforcement](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/all-enforcements.ipynb)| - |  
+| [CAA formal enforcement](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-enforcements.ipynb) | - |  
+| [CAA inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-inspections.ipynb) | - |  
+| [CAA inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-violation.ipynb) | - |  
+| [COVID-19](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-COVID19/blob/master/ECHO-COVID19.ipynb) | - |  
+| [Cross-program / Individual facility](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Cross-Program/blob/master/facility-all-programs.ipynb) | - |  
+| [ECHO by zip-code / Greenhouse Gas Reporting Program (@frijol)](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb) | - |  
+| [Nationwide: Inspections vs Compliance (@ericnost)](https://colab.research.google.com/github/ericnost/EDGI/blob/master/ECHO_inspections-enforcement-compliance.ipynb)| - | 
+
 ---
 
 ## License & Copyright
