@@ -30,10 +30,12 @@ You can find a list of all our notebooks and links to run them in Google Colab h
 | Notebook | Description | Tools Used |
 | ---- | ----------- | ---------- |
 | [ECHO-COVID19.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-COVID19/blob/main/ECHO-COVID19.ipynb) | This notebook tracks how environmental enforcement has decreased as a result of the EPA memo released on March 2020 regarding environmental enforcement during the COVID-19 pandemic. Using this notebook, you can track how facilities' releases—as well as monitoring and reporting—of air and water hazards has changed over the past few months, compared to previous years. |  Python, Jupyter Notebook |
-| [facility-all-programs.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Cross-Program/blob/master/facility-all-programs.ipynb) | This notebook examines data from the EPA's Enforcement and Compliance History Online (ECHO) database (https://echo.epa.gov/). It includes information from EPA's programs covering air quality (the Clean Air Act, or CAA), water quality (the Clean Water Act, or CWA), drinking water (Safe Drinking Water Act, SDWA) and hazardous and other waste processing (the Resource Recovery and Conservation Act, or RCRA). |  Python, Jupyter Notebook |
-| [echo-by-zip.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-zip.ipynb) | This workbook is a way to quickly view data from EPA's Enforcement and Compliance History Online portal that is relevant just to your sip code. It is designed to work with the ECHO Exporter file.| Python, Jupyter Notebook |
-| [echo-by-cd.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/master/echo-by-cd.ipynb) | This workbook is a way to quickly view data from EPA's Enforcement and Compliance History Online portal that is relevant just to your congressional district. It is designed to work with the ECHO Exporter file. | Python, Jupyter Notebook |
-| [environmental-crime.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Environmental-Crime/blob/master/environmental-crime.ipynb) | This workbook is a way to quickly view data from EPA's Enforcement and Compliance History Online portal that is relevant to your city.The workbook shows you the cost, in dollar terms, of the climate change-causing greenhouse gases industries in your city are allowed to release, and whether enforcement actions are taken against facilities who violate the Clean Air Act. | Python, Jupyter Notebook |
+| [ECHO-Cross-Programs.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Cross-Program/blob/master/ECHO-Cross-Programs.ipynb) | This notebook examines data from the EPA's Enforcement and Compliance History Online (ECHO) database (https://echo.epa.gov/). It includes information from EPA's programs covering air quality (the Clean Air Act, or CAA), water quality (the Clean Water Act, or CWA), drinking water (Safe Drinking Water Act, SDWA) and hazardous and other waste processing (the Resource Recovery and Conservation Act, or RCRA). |  Python, Jupyter Notebook |
+| [AllPrograms.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Cross-Program/blob/master/AllPrograms.ipynb) | This notebook examines data from the EPA's Enforcement and Compliance History Online (ECHO) database (https://echo.epa.gov/) in order to build EEW Report Cards for congressional districts and states. It includes information from EPA's programs covering air quality (the Clean Air Act, or CAA), water quality (the Clean Water Act, or CWA) and hazardous and other waste processing (the Resource Recovery and Conservation Act, or RCRA). |  Python, Jupyter Notebook |
+| [ECHO-National.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Cross-Program/blob/master/ECHO-National.ipynb) | This notebook examines data from the EPA's Enforcement and Compliance History Online (ECHO) database (https://echo.epa.gov/) in order to build a EEW Report Card for the entire US. It includes information from EPA's programs covering air quality (the Clean Air Act, or CAA), water quality (the Clean Water Act, or CWA) and hazardous and other waste processing (the Resource Recovery and Conservation Act, or RCRA). |  Python, Jupyter Notebook |
+| [echo-by-zip.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/main/echo-by-zip.ipynb) | This workbook is a way to quickly view data from EPA's Enforcement and Compliance History Online portal that is relevant just to your zip code. It is designed to work with the ECHO Exporter file.| Python, Jupyter Notebook |
+| [echo-by-cd.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-by-Zip-Code/blob/main/echo-by-cd.ipynb) | This workbook is a way to quickly view data from EPA's Enforcement and Compliance History Online portal that is relevant just to your congressional district. It is designed to work with the ECHO Exporter file. | Python, Jupyter Notebook |
+| [environmental-crime.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Environmental-Crime/blob/main/environmental-crime.ipynb) | This workbook is a way to quickly view data from EPA's Enforcement and Compliance History Online portal that is relevant to your city.The workbook shows you the cost, in dollar terms, of the climate change-causing greenhouse gases industries in your city are allowed to release, and whether enforcement actions are taken against facilities who violate the Clean Air Act. | Python, Jupyter Notebook |
 | [ECHO_inspections-enforcement-compliance.ipynb](https://colab.research.google.com/github/ericnost/EDGI/blob/master/ECHO_inspections-enforcement-compliance.ipynb) | This notebook draws on data in ECHO to compare EPA regions in terms of compliance, inspections, and enforcements, across all programs (Clean Water Act, Clean Air Act, and the Resource Conservation and Recovery Act). | Python, Jupyter Notebook |
  
 
@@ -49,6 +51,28 @@ You can find a list of all our notebooks and links to run them in Google Colab h
 | [icis-air-enforcements.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-enforcements.ipynb) |  This notebook examines ECHO data on formal enforcement cases, the next step after inspections by which the EPA and state agencies move forward to enforce environmental laws. |  Python, Jupyter Notebook |
 | [icis-air-inspections.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-inspections.ipynb) | This notebook examines ECHO data on air inspections, the means by which EPA and state environmental agencies check facilities for their compliance with the Clean Air Act.  | Python, Jupyter Notebook |
 | [icis-air-violation.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Air-Act/blob/master/icis-air-violation.ipynb) | This notebook examines ECHO data using ICIS-AIR_VIOLATION_HISTORY. It focuses especially on those violations that EPA deems most environmentally concerning, or High Priority Violations" (HPV). To determine the timing of these types of violations, the HPV_DAYZERO_DATE reporting the start date of every episode of High Priority Violation (HPV) is used. The PGM_SYS_ID facility identifier is linked to the ECHO_EXPORTER table's AIR_IDS field for each facility overseen by the EPA under the Clean Air Act. |  Python, Jupyter Notebook |
+
+# Default branch - 'main'
+The 'master' branch is no longer the repo's primary branch in line with EDGI's policy decided here: https://github.com/edgi-govdata-archiving/overview/issues/241
+
+> If someone has a local clone, they can update their locals like this:
+```
+$ git checkout master
+$ git branch -m master main
+$ git fetch
+$ git branch --unset-upstream
+$ git branch -u origin/main
+$ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+```
+> The above steps accomplish:
+> - Go to the master branch
+> - Rename master to main locally
+> - Get the latest commits from the server
+> - Remove the link to origin/master
+> - Add a link to origin/main
+> - Update the default branch to be origin/main
+
+(From @jywarren at Public Lab: https://github.com/publiclab/plots2/issues/8077)
 
 --- 
 
