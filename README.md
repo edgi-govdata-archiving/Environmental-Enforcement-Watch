@@ -1,7 +1,7 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 # Environmental Enforcement Watch
-[Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/) (EEW) is a series of public events hosted by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring data from EPA's Enforcement and Compliance History Online (ECHO) database.
+[Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/) (EEW) is a project by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring data, particularly from EPA's Enforcement and Compliance History Online (ECHO) database.
 
 This repo is the organizational hub of the Github resources associated with EEW.
 
