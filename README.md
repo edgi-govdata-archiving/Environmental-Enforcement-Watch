@@ -3,12 +3,12 @@
 # Environmental Enforcement Watch
 [Environmental Enforcement Watch](https://envirodatagov.org/environmental-enforcement-watch/) (EEW) is a community of practice hosted by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring and enfrocement data, including... 
 
-EPA's Enforcement and Compliance History Online (ECHO)
-EPA's Greenhouse Gas Reporting Program (GHGRP)
-EPA's Environmental Justice Screening and Mapping Tool (EJScreen)
-EPA's Environmental Justice Analysis Multisite Tool (EJAM)
-Immigration and Customs Enforcement (ICE)
-Pipeline and Hazardous Materials Safety Administration (PHMSA)
+- EPA's Enforcement and Compliance History Online (ECHO)
+- EPA's Greenhouse Gas Reporting Program (GHGRP)
+- EPA's Environmental Justice Screening and Mapping Tool (EJScreen)
+- EPA's Environmental Justice Analysis Multisite Tool (EJAM)
+- Immigration and Customs Enforcement (ICE)
+- Pipeline and Hazardous Materials Safety Administration (PHMSA)
 
 ...and others.
 
