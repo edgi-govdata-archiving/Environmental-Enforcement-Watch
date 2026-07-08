@@ -57,7 +57,7 @@ For more on how all these parts fit together, see [ARCHITECTURE.md](https://gith
 ## EEW Notebooks
 You can find a list of all our notebooks and links to run them in Google Colab here: https://docs.google.com/spreadsheets/d/1Z2rBoGqb_SXW6oAu12A6TCWEJGV1pk0YxL13P_Z5Wlw/edit#gid=903191621
 
-### Active Notebooks
+### Notebooks
 | Notebook | Description | Tools Used |
 | ---- | ----------- | ---------- |
 | [ECHO-COVID19.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-COVID19/blob/main/ECHO-COVID19.ipynb) | This notebook tracks how environmental enforcement has decreased as a result of the EPA memo released on March 2020 regarding environmental enforcement during the COVID-19 pandemic. Using this notebook, you can track how facilities' releases—as well as monitoring and reporting—of air and water hazards has changed over the past few months, compared to previous years. |  Python, Jupyter Notebook |
