@@ -1,7 +1,27 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 # Environmental Enforcement Watch
-[Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/) (EEW) is a series of public events hosted by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring data from EPA's Enforcement and Compliance History Online (ECHO) database.
+[Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/) (EEW) is a community of practice hosted by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring and enfrocement data, including... 
+
+EPA's Enforcement and Compliance History Online (ECHO)
+EPA's Greenhouse Gas Reporting Program (GHGRP)
+EPA's Environmental Justice Screening and Mapping Tool (EJScreen)
+EPA's Environmental Justice Analysis Multisite Tool (EJAM)
+Immigration and Customs Enforcement (ICE)
+Pipeline and Hazardous Materials Safety Administration (PHMSA)
+
+...and others.
+
+
+# EEW Goals
+
+The goals of EEW are:
+
+1. Bring broad (public awareness) and focused (specific communities) attention to the relationships between environmental enforcement and interlocking forms of oppression; including environmental racism, white supremacy, capitalism, and heteropatriarchy.
+2. Build a sustained network of relationships with partner organizations and individuals, and across environmental and data justice communities; leveraging existing relationships and doing intentional, proactive outreach and engagement. 
+3. Carefully steward data structures, including data collection, management, critique, tool development, and distribution.
+4. Creatively and effectively utilize data to describe the relationships and processes of state and corporate actors that drive environmental, public health, and community harm; identifying gaps and imagining alternatives.
+
 
 This repo is the organizational hub of the Github resources associated with EEW.
 
@@ -9,24 +29,28 @@ This repo is the organizational hub of the Github resources associated with EEW.
 
 | Repo | Description | Tools Used |
 | ---- | ----------- | ---------- |
-| [Environmental-Enforcement-Watch](https://github.com/edgi-govdata-archiving/Environmental-Enforcement-Watch) | **(This Repo!)** Project-wide documentation and issue tracking. | Markdown |
-| [EEW_Planning](https://github.com/edgi-govdata-archiving/EEW_Planning)| Project board and issue tracking for the coordination and planning of EEW events. | Markdown |
-| [ECHO-Cross-Program](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program) | Jupyter Notebook for examining multiple dimensions of a single EPA-regulated facility.| Python, Jupyter Notebook |
-| [ECHO-COVID19](https://github.com/edgi-govdata-archiving/ECHO-COVID19) | Jupyter Notebook for examining the effects of EPA's policy of not enforcing environmental protection rules during the pandemic.| Python, Jupyter Notebook |
-| [ECHO-Sunrise](https://github.com/edgi-govdata-archiving/ECHO-Sunrise) | Partnership between EDGI's Environmental Enforcement Watch and Sunrise Boston hubs exploring environmental violations, penalties, and injustices in Massachusetts.| Python, Jupyter Notebook |
 | [CD-Report](https://github.com/edgi-govdata-archiving/CD-Report) | R Markdown template for building EEW Report Cards | R, Markdown |
+| [ECHO-Cross-Program](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program) | Jupyter Notebook for examining multiple dimensions of a single EPA-regulated facility.| Python, Jupyter Notebook |
 | [ECHO_modules](https://github.com/edgi-govdata-archiving/ECHO_modules) | A repository for code modules that can supplement the Jupyter notebooks. | Python |
 | [ECHO-DB-Views](https://github.com/edgi-govdata-archiving/ECHO-DB-Views) | Scripts for setting up and testing views for the ECHO database. Create Views in the database to better prepare the data for use in the Jupyter notebooks.| Python, SQL |
 | [ECHO-Geo](https://github.com/edgi-govdata-archiving/ECHO-Geo) | Stores GeoJSON files to support EEW in mapping EPA enforcement and compliance data.| Python |
 | [ECHOEPA-to-SQL](https://github.com/edgi-govdata-archiving/ECHOEPA-to-SQL) | Python script "scrapeECHOEPA" that pulls ECHO data and stores it in a mirror. | Python |
+| [EEW_Planning](https://github.com/edgi-govdata-archiving/EEW_Planning)| Project board and issue tracking for the coordination and planning of EEW events. | Markdown |
+| [EEW-ICE](https://github.com/edgi-govdata-archiving/EEW-ICE) | Notebooks for analysis related immigration detention facilities and EEW's ICE Hazards project | Python, Jupyter Notebook |
+| [Environmental-Enforcement-Watch](https://github.com/edgi-govdata-archiving/Environmental-Enforcement-Watch) | **(This Repo!)** Project-wide documentation and issue tracking. | Markdown |
+| [GHG-CDP](https://github.com/edgi-govdata-archiving/GHG-CDP) | Notebooks for analysis related to the EPA GHGRP data and EDGI-EEW's Climate Data Project | Python, Jupyter Notebook |
+| [PipelineSafety](https://github.com/edgi-govdata-archiving/PipelineSafety) | Notebooks for analysis related to the PHMSA data and EEW's Pipeline Safety Project in collaboration with Pipeline Safety Trust| Python, Jupyter Notebook |
+
   
 
 ### EEW Repositories - Not Currently Maintained
 | Repo | Description | Tools Used |
 | ---- | ----------- | ---------- |
-| [ECHO-Hazardous-Waste](https://github.com/edgi-govdata-archiving/ECHO-Hazardous-Waste) | Jupyter Notebooks for ECHO RCRA analysis to use with the EEW events.| Python, Jupyter Notebook |
 | [ECHO-Clean-Water-Act](https://github.com/edgi-govdata-archiving/ECHO-CWA-Compliance) | Use EPA's ECHO datasets to view compliance violations by quarter for state/congressional districts. | Python, Jupyter Notebook |
 | [ECHO-Clean-Air-Act](https://github.com/edgi-govdata-archiving/ECHO-Air-Violations) | Jupyter Notebook for examining ICIS-AIR_VIOLATION_HISTORY.| Python, Jupyter Notebook |
+| [ECHO-COVID19](https://github.com/edgi-govdata-archiving/ECHO-COVID19) | Jupyter Notebook for examining the effects of EPA's policy of not enforcing environmental protection rules during the pandemic.| Python, Jupyter Notebook |
+| [ECHO-Hazardous-Waste](https://github.com/edgi-govdata-archiving/ECHO-Hazardous-Waste) | Jupyter Notebooks for ECHO RCRA analysis to use with the EEW events.| Python, Jupyter Notebook |
+| [ECHO-Sunrise](https://github.com/edgi-govdata-archiving/ECHO-Sunrise) | Partnership between EDGI's Environmental Enforcement Watch and Sunrise Boston hubs exploring environmental violations, penalties, and injustices in Massachusetts.| Python, Jupyter Notebook |
 
 For more on how all these parts fit together, see [ARCHITECTURE.md](https://github.com/edgi-govdata-archiving/Environmental-Enforcement-Watch/blob/master/ARCHITECTURE.md).
 
