@@ -1,7 +1,7 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 # Environmental Enforcement Watch
-[Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/) (EEW) is a community of practice hosted by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring and enfrocement data, including... 
+[Environmental Enforcement Watch](https://envirodatagov.org/environmental-enforcement-watch/) (EEW) is a community of practice hosted by [EDGI](//envirodatagov.org) to facilitate public interaction with open environmental monitoring and enfrocement data, including... 
 
 EPA's Enforcement and Compliance History Online (ECHO)
 EPA's Greenhouse Gas Reporting Program (GHGRP)
